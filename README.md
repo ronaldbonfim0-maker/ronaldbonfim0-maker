@@ -17,11 +17,13 @@ Hello, my name is Ronald Bonfim! I'm originally from São Paulo, Brasil. And I'm
 <br>
 <br>
 <h3 align="left"#
+<p align="center">
 
+<p align="center">
+  <img src="./src/Guerra_Fria.gif.mp4" width="900">
+</p>
 
-
-
-
+</p>
 #
 👨‍💻𝙻𝚒𝚗𝚐𝚞𝚊𝚐𝚎𝚗𝚜
 <h2
@@ -71,8 +73,7 @@ Hello, my name is Ronald Bonfim! I'm originally from São Paulo, Brasil. And I'm
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
-<br/>
-<h2>
+<br/><h2>
 <h2>
 📊 𝙰𝚗𝚊𝚕𝚒𝚜𝚎 𝚍𝚎 𝙳𝚊𝚍𝚘𝚜
 
@@ -125,10 +126,10 @@ Hello, my name is Ronald Bonfim! I'm originally from São Paulo, Brasil. And I'm
 <h2>📊 Tecnologias</h2>
 
 ![Excel](https://img.shields.io/badge/Excel-100%25-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Power_BI-80%25-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![PowerBI](https://img.shields.io/badge/Power_BI-100%25-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-![Python](https://img.shields.io/badge/Python-40%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-20%25-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Python](https://img.shields.io/badge/Python-50%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-50%25-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 </p>
 
