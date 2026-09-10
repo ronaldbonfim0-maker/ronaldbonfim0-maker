@@ -20,7 +20,7 @@ Hello, my name is Ronald Bonfim! I'm originally from São Paulo, Brasil. And I'm
 <p align="center">
 
 <p align="center">
-  <img src="./src/Guerra_Fria.gif.mp4" width="900">
+  <img src="./src/Guerra_fria.gif" width="900">
 </p>
 
 </p>
