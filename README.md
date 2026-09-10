@@ -20,11 +20,11 @@ Hello, my name is Ronald Bonfim! I'm originally from São Paulo, Brasil. And I'm
 <p align="center">
 
 <p align="center">
-  <img src="./src/Guerra_fria.gif" width="900">
+  <img src="./src/Guerra_fria_gif" width="900">
 </p>
 
 </p>
-#
+
 👨‍💻𝙻𝚒𝚗𝚐𝚞𝚊𝚐𝚎𝚗𝚜
 <h2
 >
@@ -138,3 +138,4 @@ Hello, my name is Ronald Bonfim! I'm originally from São Paulo, Brasil. And I'm
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake.svg">
 </picture>
+
